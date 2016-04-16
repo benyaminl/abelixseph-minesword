@@ -1,0 +1,2 @@
+C:\Users\Benyamin\AppData\Local\Temporary Projects\MinesWord\bin\Debug\MinesWord.exe.config
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\bin\Debug\MinesWord.exe.config
