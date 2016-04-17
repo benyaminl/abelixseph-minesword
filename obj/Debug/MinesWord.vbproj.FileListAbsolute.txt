@@ -1,2 +1,11 @@
 C:\Users\Benyamin\AppData\Local\Temporary Projects\MinesWord\bin\Debug\MinesWord.exe.config
 D:\My Documents\Visual Studio 2012\Projects\MinesWord\bin\Debug\MinesWord.exe.config
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\bin\Debug\MinesWord.exe
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\bin\Debug\MinesWord.pdb
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\bin\Debug\MinesWord.xml
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.MinesWordForm.resources
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.Resources.resources
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.exe
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.xml
+D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.pdb
