@@ -4,5 +4,6 @@
         MsgBox(TryFelix.Print() & TryFelix.PrintNa)
         My.Computer.Audio.Play("C:\dw.wav", AudioPlayMode.BackgroundLoop)
         MsgBox("Ah lah")
+        MsgBox("Ah lah")
     End Sub
 End Class
