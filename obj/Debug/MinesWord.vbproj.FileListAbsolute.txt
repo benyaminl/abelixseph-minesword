@@ -9,3 +9,13 @@ D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.vbproj
 D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.exe
 D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.xml
 D:\My Documents\Visual Studio 2012\Projects\MinesWord\obj\Debug\MinesWord.pdb
+D:\My Documents\GitHub\minesword\bin\Debug\MinesWord.exe.config
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.xml
+D:\My Documents\GitHub\minesword\bin\Debug\MinesWord.exe
+D:\My Documents\GitHub\minesword\bin\Debug\MinesWord.pdb
+D:\My Documents\GitHub\minesword\bin\Debug\MinesWord.xml
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.MinesWordForm.resources
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.Resources.resources
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.vbproj.GenerateResource.Cache
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.exe
+D:\My Documents\GitHub\minesword\obj\Debug\MinesWord.pdb
