@@ -23,6 +23,7 @@ Partial Class MinesWordForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
         Me.SuspendLayout()
         '
         'Button1
@@ -46,5 +47,6 @@ Partial Class MinesWordForm
 
     End Sub
     Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents BackgroundWorker1 As System.ComponentModel.BackgroundWorker
 
 End Class
