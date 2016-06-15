@@ -70,7 +70,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.vb" />
+    <Compile Include="Benyamin.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -116,6 +116,24 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stageback.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
