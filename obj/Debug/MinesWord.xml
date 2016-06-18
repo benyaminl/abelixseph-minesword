@@ -19,6 +19,26 @@ MinesWord
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:MinesWord.My.Resources.Resources.BoardBack">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinesWord.My.Resources.Resources.button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinesWord.My.Resources.Resources.font">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:MinesWord.My.Resources.Resources.paneltextback">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinesWord.My.Resources.Resources.PWStraight">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
 </member><member name="P:MinesWord.My.Resources.Resources.stage1">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -36,6 +56,10 @@ MinesWord
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="P:MinesWord.My.Resources.Resources.stageback">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinesWord.My.Resources.Resources.statusback">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

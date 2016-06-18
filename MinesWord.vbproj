@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Benyamin.vb" />
+    <Compile Include="CustomFont.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +119,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\font.ttf" />
     <None Include="Resources\stage1.png" />
   </ItemGroup>
   <ItemGroup>
@@ -134,6 +136,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\stageback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoardBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statusback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paneltextback.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

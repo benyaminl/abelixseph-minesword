@@ -73,6 +73,46 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property BoardBack() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("BoardBack", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property button() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("button", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Byte[].
+        '''</summary>
+        Friend ReadOnly Property font() As Byte()
+            Get
+                Dim obj As Object = ResourceManager.GetObject("font", resourceCulture)
+                Return CType(obj,Byte())
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property paneltextback() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("paneltextback", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property stage1() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("stage1", resourceCulture)
@@ -116,6 +156,16 @@ Namespace My.Resources
         Friend ReadOnly Property stageback() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("stageback", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property statusback() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("statusback", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
