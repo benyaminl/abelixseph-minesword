@@ -79,6 +79,7 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="MainMenu.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -138,9 +139,6 @@
     <None Include="Resources\stageback.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\button.PNG" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\BoardBack.png" />
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +146,51 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\paneltextback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MM_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HELLO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotak insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LANJUTAN HELLO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lanjutan kotak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About_Letter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PESAN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXITBUTTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTUS.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

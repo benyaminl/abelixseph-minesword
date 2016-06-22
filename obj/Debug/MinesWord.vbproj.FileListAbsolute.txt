@@ -29,3 +29,23 @@ D:\My Documents\minesword\obj\Debug\MinesWord.Resources.resources
 D:\My Documents\minesword\obj\Debug\MinesWord.vbproj.GenerateResource.Cache
 D:\My Documents\minesword\obj\Debug\MinesWord.exe
 D:\My Documents\minesword\obj\Debug\MinesWord.pdb
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\bin\Debug\MinesWord.exe.config
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.exe
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.xml
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.pdb
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\bin\Debug\MinesWord.exe
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\bin\Debug\MinesWord.pdb
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\bin\Debug\MinesWord.xml
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.MinesWordForm.resources
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.Resources.resources
+D:\Project\Proyek PV\abelixseph-minesword-7140c984604e\obj\Debug\MinesWord.vbproj.GenerateResource.Cache
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\bin\Debug\MinesWord.exe.config
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.exe
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.xml
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.pdb
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\bin\Debug\MinesWord.exe
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\bin\Debug\MinesWord.pdb
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\bin\Debug\MinesWord.xml
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.MinesWordForm.resources
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.Resources.resources
+C:\Users\FelixGTX1080\Documents\GitHub\MinesWord\obj\Debug\MinesWord.vbproj.GenerateResource.Cache

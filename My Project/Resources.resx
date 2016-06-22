@@ -151,4 +151,40 @@
   <data name="statusback" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\statusback.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="BG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\foto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HELLO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HELLO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kotak_insert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kotak insert.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LANJUTAN_HELLO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LANJUTAN HELLO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lanjutan_kotak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lanjutan kotak.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MM_Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MM_Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bulat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bulat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PESAN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PESAN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ABOUTUS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ABOUTUS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EXITBUTTON" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EXITBUTTON.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
