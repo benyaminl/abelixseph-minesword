@@ -70,7 +70,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.vb" />
+    <Compile Include="Benyamin.vb" />
+    <Compile Include="CustomFont.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +79,7 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="MainMenu.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -116,6 +118,79 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font.ttf" />
+    <None Include="Resources\stage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stage4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stageback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoardBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statusback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paneltextback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MM_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HELLO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotak insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LANJUTAN HELLO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lanjutan kotak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About_Letter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PESAN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXITBUTTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTUS.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

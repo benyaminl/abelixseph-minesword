@@ -1,9 +1,10 @@
 ﻿Public Class MinesWordForm
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim TryFelix As New Felix
-        MsgBox(TryFelix.Print() & TryFelix.PrintNa)
-        My.Computer.Audio.Play("C:\dw.wav", AudioPlayMode.BackgroundLoop)
-        MsgBox("Ah lah")
-        MsgBox("Ah lah")
+    Dim Ben As New Benyamin 'Importing Class Benyamin, from Benyamin Limanto
+    Dim Felix As New MainMenu
+    Private Sub MinesWordForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Reducing Flicker because of button animation
+        Me.DoubleBuffered = True
+        Felix.Mainmenupage()
+        'Ben.StageButtonShow()
     End Sub
 End Class
